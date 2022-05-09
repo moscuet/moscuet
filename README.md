@@ -1,5 +1,10 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+developer.++++++++++)](https://git.io/typing-svg)
+
 <h2 align="center">Hi there 👋 </h2>
 <h2 align="center">I am Mostafizur, welcome to my profile!</h2>
+
+
+<h2>🏆 Github Profile Trophy</h2>
 
 
 <!--
