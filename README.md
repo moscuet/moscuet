@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-Stack+Web+Developer.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-Stack+Web+Developer++++++++++)](https://git.io/typing-svg)
 
 <h2 align="center">Hi there 👋 </h2>
 <h2 align="center">I am Mostafizur, welcome to my profile!</h2>
