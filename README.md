@@ -4,9 +4,6 @@
 <h2 align="center">I am Mostafizur, welcome to my profile!</h2>
 
 
-<h2>🏆 Github Profile Trophy</h2>
-
-
 <!--
 **moscuet/moscuet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
